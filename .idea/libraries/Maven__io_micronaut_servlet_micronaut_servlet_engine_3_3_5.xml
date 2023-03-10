@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.micronaut.servlet:micronaut-servlet-engine:3.3.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../developer-tools/maven-artifacts/repository/io/micronaut/servlet/micronaut-servlet-engine/3.3.5/micronaut-servlet-engine-3.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../developer-tools/maven-artifacts/repository/io/micronaut/servlet/micronaut-servlet-engine/3.3.5/micronaut-servlet-engine-3.3.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../developer-tools/maven-artifacts/repository/io/micronaut/servlet/micronaut-servlet-engine/3.3.5/micronaut-servlet-engine-3.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

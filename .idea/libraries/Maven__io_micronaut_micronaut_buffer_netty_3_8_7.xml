@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.micronaut:micronaut-buffer-netty:3.8.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../developer-tools/maven-artifacts/repository/io/micronaut/micronaut-buffer-netty/3.8.7/micronaut-buffer-netty-3.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../developer-tools/maven-artifacts/repository/io/micronaut/micronaut-buffer-netty/3.8.7/micronaut-buffer-netty-3.8.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../developer-tools/maven-artifacts/repository/io/micronaut/micronaut-buffer-netty/3.8.7/micronaut-buffer-netty-3.8.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
